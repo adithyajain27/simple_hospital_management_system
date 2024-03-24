@@ -4,4 +4,4 @@ a simple hospital management system which is used for booking appointments with 
 
 
 # VIEW OF THE PAGE
-<img src="C:\Users\DELL\Pictures\Screenshots\HSPTL.PNG" height="60" width="60" >
+<img src="hsptl.png" height="60" width="60" >
